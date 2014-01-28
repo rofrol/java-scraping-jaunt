@@ -1,0 +1,5 @@
+download jaunt from http://jaunt-api.com/download.htm
+
+Read more on http://jaunt-api.com/jaunt-tutorial.htm
+
+More on scrapers http://stackoverflow.com/questions/3202305/web-scraping-with-java
